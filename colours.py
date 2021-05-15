@@ -1,0 +1,7 @@
+white = (255,255,255)
+black = (0,0,0)
+red = (255,0,0)
+lightGreen = (0,255,0)
+blue = (0,0,255)
+grassGreen =(86,165,0)
+random = (23,24,434)
